@@ -302,7 +302,7 @@ Capítulo 18
 
 4. Video
 
-Link del video:
+Link del video: https://www.youtube.com/watch?v=i0DYI6NrDdI&ab_channel=CristopherPaida
 
 5. Conclusiones
 
