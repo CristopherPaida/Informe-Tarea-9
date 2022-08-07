@@ -246,33 +246,72 @@ Capítulo 18
 
 4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent = 5 V
 
+![image](https://user-images.githubusercontent.com/105565670/183274645-6212458c-b215-4392-a80c-419595414107.png)
 
+6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40
 
+![image](https://user-images.githubusercontent.com/105565670/183274656-e7ffd8fc-63ee-4971-bb4d-81a0660188ba.png)
 
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB
 
+![image](https://user-images.githubusercontent.com/105565670/183274662-af2fb4fa-f8a8-4662-9d7a-ec02df77b072.png)
 
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc = 1 kHz):
 
+![image](https://user-images.githubusercontent.com/105565670/183274668-3a04fdd9-12c9-4a3f-b534-f89bbd59cf1a.png)
 
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas
 
+![image](https://user-images.githubusercontent.com/105565670/183274676-484507b5-3cae-4558-a063-20d76045a801.png)
 
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent = 10 V)
 
+![image](https://user-images.githubusercontent.com/105565670/183274684-1e77a391-e9ad-445c-aa9b-d705ff35d487.png)
 
+![image](https://user-images.githubusercontent.com/105565670/183274688-98c3cec9-478f-403f-ab46-0d0b7d906bdf.png)
 
+16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42
 
+![image](https://user-images.githubusercontent.com/105565670/183274699-9941d17d-96df-490a-b811-862d550f8b9a.png)
 
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Ω, determine el ancho de banda para cada filtro
 
+![image](https://user-images.githubusercontent.com/105565670/183274706-8a90a2b7-c509-43d4-b470-090387d90e19.png)
 
+![image](https://user-images.githubusercontent.com/105565670/183274709-33b626e0-4acc-486f-846a-f73c8a8c67c2.png)
 
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW
 
+![image](https://user-images.githubusercontent.com/105565670/183274714-f3e3fea0-6887-47d9-8b52-12b84247a272.png)
 
+22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW = 0 Ω para cada bobina
 
+![image](https://user-images.githubusercontent.com/105565670/183274720-94f300e2-ea07-4777-9d85-05b553f5d5d7.png)
 
+![image](https://user-images.githubusercontent.com/105565670/183274732-b5ec8a13-d898-4a91-8ecb-636f2f645cc1.png)
 
+![image](https://user-images.githubusercontent.com/105565670/183274734-4574af5e-7893-4e23-82bf-91b37bbf7a97.png)
 
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46
 
+![image](https://user-images.githubusercontent.com/105565670/183274741-cae6dd16-a290-4379-b9c8-90fb5774a041.png)
 
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?
 
+![image](https://user-images.githubusercontent.com/105565670/183274746-a6316486-be14-42bc-9cf5-38b08c142eb9.png)
 
+4. Video
 
+Link del video:
 
+5. Conclusiones
 
+•	Un circuito RLC en serie contiene resistencia, inductancia y capacitancia, los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es la base de la selectividad de frecuencia en sistemas de comunicaciones.
+
+•	Los filtros pasivos utilizan varias combinaciones de resistores, capacitores e inductores, los cuales se clasifican en cuatro categorías generales de acuerdo a las características de respuesta.
+
+6. Bibliografía
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
+
+TELCOM. (28 de Agosto de 2021). TELCOM. Obtenido de https://telcom.jaol.net/circuito-rlc/
